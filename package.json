@@ -26,7 +26,7 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
-    "axios": "^0.25.0",
+    "axios": "^1.8.2",
     "basiclightbox": "^5.0.4",
     "debounce": "^1.2.1",
     "firebase": "^9.6.5",
